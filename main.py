@@ -3,13 +3,9 @@ from pyramid.config import Configurator
 from pyramid.response import Response
 
 
-
 def main():
-    with Configurator() as config:
-        app = config.make_wsgi_app()
-    server = make_server('0.0.0.0', 8000, app)
-    server.serve_forever()
-    
+    ## CODE HERE ##
+
 
 if __name__ == '__main__':
     main()
