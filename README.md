@@ -10,7 +10,7 @@ We hope that you will enjoy and learn as much as you can during this workshop ! 
 
 ### **What we need ?**
 For this workshop you will need to have **Python** installed on your computer. If it's not already done, you can find the installation [here](https://www.python.org/downloads/).
-We also need to install a database, in our case we will use [SQLite](https://www.sqlite.org/download.html), you can download it from the package manager of your machine. (We advice you to download the sqlite browser to have an user interface)
+We also need to install a database, in our case we will use [mysql](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04), you can download it from the package manager of your machine.
 
 
 ### **How to build** :
