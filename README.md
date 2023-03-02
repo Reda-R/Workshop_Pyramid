@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our Workshop, today we will see how to create a to-do list application web using [Python](https://python.org/) with the framework [Pyramid](https://trypyramid.com/) and the database [SQLite](https://www.sqlite.org/index.html).\
+Welcome to our Workshop, today we will see how to create a to-do list application web using [Python](https://python.org/) with the framework [Pyramid](https://trypyramid.com/) and the database [Mysql](https://www.mysql.com/fr/).\
 We hope that you will enjoy and learn as much as you can during this workshop ! :)
 
 ---
