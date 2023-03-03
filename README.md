@@ -48,7 +48,7 @@ Now you can launch your web application:
 ---
 ## __STEP 3__ : **_Connect your database_**
     Connect your sqlite3 database to your pyramid server.
-    You have to create a function and use the path of the file "my.db" gived in the repository.
+    You have to create a function and use the path of the file "database.sql" gived in the repository.
 
 ---
 ## __STEP 4__ : **_Make SQL Query to get your data_**
